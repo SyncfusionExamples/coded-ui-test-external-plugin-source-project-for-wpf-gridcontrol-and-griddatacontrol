@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syncfusion.UITest.GridExtension_2010", "Syncfusion.UITest.GridExtension_2010.csproj", "{5ED500BD-96A0-47AE-B6A3-7F794774577A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syncfusion.UITest.GridCommunication_2010", "..\UITestInterop\Syncfusion.UITest.GridCommunication_2010.csproj", "{58890006-4ADC-4093-A729-74663226D8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_XML|Any CPU = Debug_XML|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Debug-XML|Any CPU = Debug-XML|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-XML|Any CPU = Release-XML|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Debug_XML|Any CPU.ActiveCfg = Debug-XML|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Debug_XML|Any CPU.Build.0 = Debug-XML|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Debug-XML|Any CPU.ActiveCfg = Debug-XML|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Debug-XML|Any CPU.Build.0 = Debug-XML|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Release-XML|Any CPU.ActiveCfg = Release-XML|Any CPU
+		{5ED500BD-96A0-47AE-B6A3-7F794774577A}.Release-XML|Any CPU.Build.0 = Release-XML|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Debug_XML|Any CPU.ActiveCfg = Debug_XML|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Debug_XML|Any CPU.Build.0 = Debug_XML|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Debug-XML|Any CPU.ActiveCfg = Debug_XML|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Debug-XML|Any CPU.Build.0 = Debug_XML|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Release-XML|Any CPU.ActiveCfg = Release-XML|Any CPU
+		{58890006-4ADC-4093-A729-74663226D8B1}.Release-XML|Any CPU.Build.0 = Release-XML|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
