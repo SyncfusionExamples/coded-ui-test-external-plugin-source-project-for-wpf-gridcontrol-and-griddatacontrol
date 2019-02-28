@@ -1,0 +1,14 @@
+Using Below post build command we can easily  install the assmebly in GAC location while Build the Extension source.
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+ 
+  "%ProgramFiles%\Microsoft SDKs\Windows\v8.0A\bin\NETFX 4.0 Tools\gacutil.exe"  /i "$(TargetPath)"
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+Note 1: Paste this  command in Properties->Build Events ->Post Build Event Command Line text block of both GridCommunication and GridExtension Project.
+
+Note 2: You must Build the Visual studio with Administartor mode when using post build command.
+
