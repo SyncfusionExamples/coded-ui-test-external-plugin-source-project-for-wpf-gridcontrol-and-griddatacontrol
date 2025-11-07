@@ -1,6 +1,6 @@
 # Coded UI Test External Plugin Source Project for WPF GridControl and WPF GridDataControl
 
-This repository contains the coded ui test external plugin source project for [WPF GridControl](https://help.syncfusion.com/cr/wpf/Syncfusion.Windows.Controls.Grid.GridControl.html) and [WPF GridDataControl](https://help.syncfusion.com/cr/wpf/Syncfusion.Windows.Controls.Grid.GridDataControl.html).
+This repository contains the coded ui test external plugin source project for [WPF GridControl](https://help.syncfusion.com/wpf/gridcontrol/overview) and [WPF GridDataControl](https://help.syncfusion.com/wpf/classic/griddata/overview).
 
 The Coded UI Test(CUIT) extension is a technology manager that tells Coded UI Test to use UI automation for Syncfusion WPF controls.
 
